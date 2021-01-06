@@ -25,7 +25,7 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */f
     imgs: {
-        "亲爱的大宝贝": "./imgs/dabaobei.png",
+        "亲爱的大宝贝": "./imgs/Dabaobei.png",
         // "宝宝生日快乐": "./imgs/birthday.jpg",
     },
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
